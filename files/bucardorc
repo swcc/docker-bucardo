@@ -1,0 +1,5 @@
+dbport = 5432
+dbhost = /var/run/postgresql
+dbname = bucardo
+dbuser = bucardo
+dbpass = bucardo
